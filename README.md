@@ -8,4 +8,4 @@ The installation guide can be found on the tutorial page of our website. For mor
 The task server code can be cloned at https://github.com/robotgnchallenge/challenge2023_server.
 
 ## Task Client
-Task client will update soon.
+The task server code can be cloned at https://github.com/robotgnchallenge/challenge2023_client.
